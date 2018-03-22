@@ -1,0 +1,6 @@
+{
+  "nodeListen": "0.0.0.0",
+  "nodePort": "8080",
+  "fileName": "bigfile.html",
+  "fileSize": 4294967296
+}
