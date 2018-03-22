@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-network-test",
+  "version": "1.0.0",
+  "description": "simpele express webserver to serve an arbitrarily large file to test network throughput.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorsmcclure/nodejs-network-test.git"
+  },
+  "keywords": [
+    "express",
+    "performance",
+    "network",
+    "test"
+  ],
+  "author": "Taylor McClure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorsmcclure/nodejs-network-test/issues"
+  },
+  "homepage": "https://github.com/taylorsmcclure/nodejs-network-test#readme"
+}
