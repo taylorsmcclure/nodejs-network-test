@@ -8,6 +8,7 @@ Create a simple to install/use webserver to serve an arbitrarily large file. A c
 * Express
 
 ## Usage
+`npm install`
 `node server.js`
 
 ## Config
